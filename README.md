@@ -1,4 +1,4 @@
-# simple-Passwprd-Generator
+# simple-Password-Generator
 A simple yet secure Python script to generate random passwords with optional symbols and uppercase letters, along with checks to verify password content.
 
 This Python project is a simple yet secure password generator that I built to practice writing functional code while learning about cryptographic safety, conditional logic, and modularity.
